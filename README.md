@@ -1,4 +1,4 @@
-# Spolszczenie Kerbal Space Program 1.3.0 / 1.3.1 / 1.4.0/1.4.5/1.7.3/1.12.5 w wersji alpha autorstwa grupy CEBULA Translations.
+# Spolszczenie Kerbal Space Program 1.12.5 w wersji alpha autorstwa grupy CEBULA Translations.
 
 Większość gry została już przetłumaczona. To co jeszcze nie zostało przetłumaczone to:
 
