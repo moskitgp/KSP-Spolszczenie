@@ -11,7 +11,7 @@ Większość gry została już przetłumaczona. To co jeszcze nie zostało przet
 
 1. Posiadamy zainstalowane Kerbal Space Program w wersji 1.12.5
 2. Wypakowujemy folder "KSP-Spolszczenie"
-3. Folder "Spolszczenie" kopiujemy do środka folderu "Gamedata" w folderze z grą (tam gdzie znajduje się także folder "Squad")
+3. Folder "KSP-Spolszczenie" kopiujemy do środka folderu "Gamedata" w folderze z grą (tam gdzie znajduje się także folder "Squad")
 4. Uruchamiamy grę
 5. Cieszymy się grą w prawie 100% po polsku
 
